@@ -2,7 +2,7 @@
 
 - I'm currently learning Python and C++ to acquire the basics and become a well-rounded professional.
 - My interests: Singing, playing guitar, using as much Open Source Software as possible.
-- Fun fact: My first degree is Biotech Engineering and I work for a company that runs Clinical Trials. If you have any doubts related to this industry or any biological concept, do let me know. ;)
+- Fun fact: My first degree is Biotech Engineering and I work for a company that runs Clinical Trials. I wish to integrate CS with Biotechnology.
 
 <!--
 **shadownbones62/shadownbones62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
